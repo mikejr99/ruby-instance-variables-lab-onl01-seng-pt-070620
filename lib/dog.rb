@@ -13,3 +13,4 @@ lassie.name = "Lassie"
 
 puts lassie.name
 puts lassie
+puts Dog.new
